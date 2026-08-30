@@ -6,4 +6,4 @@ My main languages are **C++** and **Python**, where I've created independent phy
 
 Being self-taught has taught me skills beyond programming — especially perseverance, problem-solving, and staying calm when facing difficult challenges. I enjoy the process of debugging, experimenting, and discovering new solutions, and programming has become more than just a hobby for me; it's something I genuinely enjoy and continuously want to improve at.
 
-I'm always looking to learn, build, and explore new ideas in software development.
+I'm interested in computational physics, numerical simulation, performance, and understanding how physical systems can be represented computationally.
